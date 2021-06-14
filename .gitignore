@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+POS_Application/
+demo.txt
